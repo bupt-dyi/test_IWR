@@ -1,0 +1,13 @@
+{
+    "name": "mmWave Demo Visualizer",
+    "chromium-args": "--ignore-certificate-errors --disable-web-security --user-data-dir --enable-features=SharedArrayBuffer",
+    "window": {
+        "title": "",
+        "frame": true,
+        "position": "center",
+        "width": 1280,
+        "height": 800,
+        "show_in_taskbar": true
+    },
+    "node-remote": "*://*/*"
+}
